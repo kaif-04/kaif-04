@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Full Stack Web Dev.
 - 💞️ I’m looking to collaborate on Front End Projects.
 - 📫 Connect me on kaifmd0407@gmail.com.
-- 👀 My Hobbies are Gaming,Traveling and Car Enthusiast.
+- 👀 My Hobbies are Gaming,Traveling and I am a Car Enthusiast.
   
